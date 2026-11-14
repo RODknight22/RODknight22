@@ -40,10 +40,6 @@ A personal finance app that runs entirely on your computer, built for people who
 
 `React 18` `TypeScript` `Tailwind` `FastAPI` `SQLModel` `SQLite` `Docker` `PyInstaller`
 
-<a href="https://github.com/RODknight22/appFinanzas">
-  <img src="https://raw.githubusercontent.com/RODknight22/appFinanzas/HEAD/docs/capturas/dashboard.png" alt="appFinanzas dashboard in dark mode" width="760">
-</a>
-
 ### 📰 [n8n-daily-briefing-ai](https://github.com/RODknight22/n8n-daily-briefing-ai)
 
 An automated morning newsletter covering cybersecurity, AI and finance.
