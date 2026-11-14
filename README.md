@@ -11,6 +11,8 @@
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/01a1d48c-1c46-7262-b50d-6edd3f77bab2)
 [![Cybrary](https://img.shields.io/badge/Cybrary-1A1A2E?style=for-the-badge)](https://app.cybrary.it/profile/RODknight22)
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square" alt="Windows"> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP">
+
 <sub>🇪🇸 Versión en español al final</sub>
 
 </div>
@@ -27,9 +29,17 @@ Three rules I work by:
 
 Next stop: cybersecurity. I'm training on Hack The Box and Cybrary, learning to break things on purpose instead of by accident.
 
-## Featured projects
+<details>
+<summary>📂 <b>Projects and what I'm up to</b></summary>
 
-### 💸 [appFinanzas](https://github.com/RODknight22/appFinanzas)
+<br>
+
+<details>
+<summary>🚀 <b>Featured projects</b></summary>
+
+<br>
+
+**💸 [appFinanzas](https://github.com/RODknight22/appFinanzas)** · local-first personal finance app
 
 A personal finance app that runs entirely on your computer, built for people who earn in one currency and spend in another.
 
@@ -40,7 +50,7 @@ A personal finance app that runs entirely on your computer, built for people who
 
 `React 18` `TypeScript` `Tailwind` `FastAPI` `SQLModel` `SQLite` `Docker` `PyInstaller`
 
-### 📰 [n8n-daily-briefing-ai](https://github.com/RODknight22/n8n-daily-briefing-ai)
+**📰 [n8n-daily-briefing-ai](https://github.com/RODknight22/n8n-daily-briefing-ai)** · a newsletter that writes itself
 
 An automated morning newsletter covering cybersecurity, AI and finance.
 
@@ -50,27 +60,26 @@ An automated morning newsletter covering cybersecurity, AI and finance.
 
 `n8n` `Google Gemini` `SMTP` `RSS`
 
-### 🧠 second-brain <sub>(private)</sub>
+**🧠 second-brain** · Obsidian + AI agents (private)
 
 A knowledge system built on Obsidian and connected to AI coding agents through MCP. Voice recordings and web clippings go in; a linked, searchable wiki comes out.
 
 `Obsidian` `MCP` `Node.js` `Python`
 
-## Tech stack
+</details>
 
-| Area | Tools |
-|---|---|
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend & data** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
-| **Automation & AI** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white) |
-| **IT & networking** | ![Networking](https://img.shields.io/badge/VLANs_&_Wi--Fi-4B5563?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-## Currently
+<details>
+<summary>📌 <b>Currently</b></summary>
 
-- 🚧 Building **appFinanzas v2**: debt tracking, a wishlist and a cooling-off rule against impulse purchases
-- 🔐 Training in **offensive security** and network fundamentals
-- 🤖 Exploring **AI agents and MCP** as everyday working tools
+<br>
+
+- Building **appFinanzas v2**: debt tracking, a wishlist and a cooling-off rule against impulse purchases
+- Training in **offensive security** and network fundamentals
+- Exploring **AI agents and MCP** as everyday working tools
+
+</details>
+
+</details>
 
 ---
 
@@ -100,9 +109,17 @@ Tres reglas con las que trabajo:
 
 Siguiente parada: ciberseguridad. Entreno en Hack The Box y Cybrary, aprendiendo a romper cosas a propósito y no por accidente.
 
-## Proyectos destacados
+<details>
+<summary>📂 <b>Proyectos y en qué ando</b></summary>
 
-### 💸 [appFinanzas](https://github.com/RODknight22/appFinanzas)
+<br>
+
+<details>
+<summary>🚀 <b>Proyectos destacados</b></summary>
+
+<br>
+
+**💸 [appFinanzas](https://github.com/RODknight22/appFinanzas)** · finanzas personales en tu propio equipo
 
 App de finanzas personales que funciona por completo en tu ordenador, pensada para quien cobra en una moneda y gasta en otra.
 
@@ -113,7 +130,7 @@ App de finanzas personales que funciona por completo en tu ordenador, pensada pa
 
 `React 18` `TypeScript` `Tailwind` `FastAPI` `SQLModel` `SQLite` `Docker` `PyInstaller`
 
-### 📰 [n8n-daily-briefing-ai](https://github.com/RODknight22/n8n-daily-briefing-ai)
+**📰 [n8n-daily-briefing-ai](https://github.com/RODknight22/n8n-daily-briefing-ai)** · un boletín que se escribe solo
 
 Boletín matutino automatizado sobre ciberseguridad, IA y finanzas.
 
@@ -123,16 +140,25 @@ Boletín matutino automatizado sobre ciberseguridad, IA y finanzas.
 
 `n8n` `Google Gemini` `SMTP` `RSS`
 
-### 🧠 second-brain <sub>(privado)</sub>
+**🧠 second-brain** · Obsidian + agentes de IA (privado)
 
 Sistema de conocimiento sobre Obsidian, conectado a agentes de IA mediante MCP. Entran grabaciones de voz y recortes web; sale una wiki enlazada y consultable.
 
 `Obsidian` `MCP` `Node.js` `Python`
 
-## Ahora mismo
+</details>
 
-- 🚧 Desarrollando **appFinanzas v2**: gestión de deudas, lista de deseos y una regla de enfriamiento contra compras impulsivas
-- 🔐 Formándome en **seguridad ofensiva** y fundamentos de redes
-- 🤖 Explorando **agentes de IA y MCP** como herramientas de trabajo diarias
+<details>
+<summary>📌 <b>Ahora mismo</b></summary>
+
+<br>
+
+- Desarrollando **appFinanzas v2**: gestión de deudas, lista de deseos y una regla de enfriamiento contra compras impulsivas
+- Formándome en **seguridad ofensiva** y fundamentos de redes
+- Explorando **agentes de IA y MCP** como herramientas de trabajo diarias
+
+</details>
+
+</details>
 
 </details>
